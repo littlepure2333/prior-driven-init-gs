@@ -12,19 +12,18 @@ This initialization method, which takes an image and its corresponding depth as 
     <th>Centers</th>
   </tr>
   <tr>
-    <td>Prior-init</td>
-    <td><video src="data/training_rgb_prior.mp4" autoplay loop muted controls></td>
-    <td><video src="data/training_depth_prior.mp4" autoplay loop muted controls></td>
-    <td><video src="data/training_center_prior.mp4" autoplay loop muted controls></td>
+    <td>Prior-init (500steps)</td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/5897ddec-1564-44d5-9e2e-ca29e48aec00" autoplay loop muted controls></td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/3541911d-2c2a-40ab-9812-8b17c476cc5e" autoplay loop muted controls></td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/20e02542-460e-4264-990c-096df3c73e76" autoplay loop muted controls></td>
   </tr>
   <tr>
-    <td>Random-init</td>
-    <td><video src="data/training_rgb_random.mp4" autoplay loop muted controls></td>
-    <td><video src="data/training_depth_random.mp4" autoplay loop muted controls></td>
-    <td><video src="data/training_center_random.mp4" autoplay loop muted controls></td>
+    <td>Random-init (5000 steps)</td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/1cc309b4-e724-416d-9693-06649ae2741f" autoplay loop muted controls></td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/1aa09f23-f6e0-473a-a938-b874fc12e8d5" autoplay loop muted controls></td>
+    <td><video src="https://github.com/littlepure2333/prior-driven-init-gs/assets/36270711/103bd1bb-9dc0-4e7c-a2e2-25ad9023c180" autoplay loop muted controls></td>
   </tr>
 </table>
-
 
 
 
